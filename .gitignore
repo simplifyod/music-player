@@ -4,6 +4,7 @@ node_modules
 
 
 // change feature
+<<<<<<< HEAD
 <<<<<<< master
 =======
 // test
@@ -14,3 +15,6 @@ x
 =======
 y
 >>>>>>> y
+=======
+y
+>>>>>>> init_next
